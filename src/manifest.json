@@ -5,7 +5,7 @@
   "suppliesData": true,
   "commands": [
     {
-      "script": "dad-jokes.js",
+      "script": "dadjokes.js",
       "handlers": {
         "actions": {
           "Startup": "onStartup",

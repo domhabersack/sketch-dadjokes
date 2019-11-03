@@ -1,18 +1,18 @@
 {
-  "name": "sketch-data-dad-jokes",
+  "name": "sketch-dadjokes",
   "version": "0.1.0",
-  "description": "Replace your text with random dad jokes.",
+  "description": "Replace your text with dad jokes.",
   "engines": {
     "sketch": ">=3.0"
   },
   "repository" : {
     "type": "git",
-     "url": "git+https://github.com/domhabersack/sketch-data-dad-jokes.git"
+     "url": "git+https://github.com/domhabersack/sketch-dadjokes.git"
   },
   "skpm": {
     "name": "Dad Jokes",
     "manifest": "src/manifest.json",
-    "main": "sketch-data-dad-jokes.sketchplugin",
+    "main": "dadjokes.sketchplugin",
     "assets": [
       "assets/**/*"
     ]

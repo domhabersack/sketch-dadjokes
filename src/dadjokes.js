@@ -18,7 +18,7 @@ export function onSupplyData (context) {
     fetch('https://icanhazdadjoke.com', {
       headers: {
         'Accept': 'application/json',
-        'User-Agent': 'Sketch Data Dad Jokes (https://islovely.co/projects/sketch-data-dad-jokes)'
+        'User-Agent': 'Sketch Dad Jokes (https://islovely.co/projects/sketch-dadjokes)'
       }
     }).then(response => response.json()).then(({ joke }) => {
       DataSupplier.supplyDataAtIndex(dataKey, joke, index)
