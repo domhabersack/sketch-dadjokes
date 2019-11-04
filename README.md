@@ -6,4 +6,4 @@ The jokes are provided by [icanhazdadjoke.com](https://icanhazdadjoke.com/).
 
 ## Installation
 
-[Download the latest release](./releases/latest) and open the `dadjokes.sketchplugin` you find in there. You’ll only need to do this once; updates can be installed through Sketch itself.
+[Download the latest release](https://github.com/domhabersack/sketch-dadjokes/releases/latest) and open the `dadjokes.sketchplugin` you find in there. You’ll only need to do this once; updates can be installed through Sketch itself.
